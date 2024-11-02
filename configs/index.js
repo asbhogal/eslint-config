@@ -4,6 +4,7 @@ module.exports = {
     './jest',
     './react',
     './typescript',
+    './stylelint',
   ].map(require.resolve),
   rules: {},
 };
